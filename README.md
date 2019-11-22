@@ -7,5 +7,9 @@
 [Here](files/HW2.pdf) is the description and questions for Homework 2.<br>
 [Here](files/HW2.html) is my approach for Homework 2.
 
+## Homework 3
+[Here](files/HW3.pdf) is the description and questions for Homework 3.<br>
+[Here](files/HW3.html) is my approach for Homework 3.
+
 
 
